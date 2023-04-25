@@ -38,7 +38,7 @@ jobs:
         run: |
           tmp="version=$(grep 'version:' app-info.yaml | cut -d' ' -f2)"
           echo $tmp
-          echo $tmp >> $GITHUB_OUTPUT
+          echo $tmp >> "$GITHUB_OUTPUT"
 
       - name: Create release
         id: create_release
