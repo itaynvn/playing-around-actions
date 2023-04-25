@@ -36,6 +36,9 @@ jobs:
       - name: Set output version
         id: set_version
         run: |
+          pwd
+          ls -la
+          cat app-info.yaml
           echo "version=$(grep 'version:' app-info.yaml | cut -d' ' -f2)" >> "$GITHUB_OUTPUT"
 
       - name: Create release
