@@ -2,14 +2,14 @@
 <html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Dômes de Miage - Wikipedia</title>
+<title>Tindivanam taluk - Wikipedia</title>
 <script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":
-"5c350be7-d5f2-4c63-b5b1-c07f1da75125","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dômes_de_Miage","wgTitle":"Dômes de Miage","wgCurRevisionId":1050840278,"wgRevisionId":1050840278,"wgArticleId":45231622,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles lacking sources from May 2019","All articles lacking sources","Coordinates on Wikidata","Commons category link from Wikidata","Articles with VIAF identifiers","Mountains of Haute-Savoie","Mountains of the Alps","Mont Blanc massif"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Dômes_de_Miage","wgRelevantArticleId":45231622,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{
-"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":2000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgCoordinates":{"lat":45.81583,"lon":6.8},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q646311","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready",
-"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.page.gallery","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth",
-"ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+"9d8f4f76-126f-42a7-a93a-a5e24a1736da","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tindivanam_taluk","wgTitle":"Tindivanam taluk","wgCurRevisionId":971356738,"wgRevisionId":971356738,"wgArticleId":23863998,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from August 2019","Tamil Nadu articles missing geocoordinate data","All articles needing coordinates","Articles missing coordinates without coordinates on Wikidata","All stub articles","Taluks of Villupuram district","Viluppuram district geography stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Tindivanam_taluk","wgRelevantArticleId":23863998,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":
+"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":1000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q12983956","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready"
+,"mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022",
+"ext.growthExperiments.SuggestedEditSession"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.page.gallery.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022"/>
@@ -19,32 +19,23 @@
 <meta name="referrer" content="origin-when-cross-origin"/>
 <meta name="robots" content="max-image-preview:standard"/>
 <meta name="format-detection" content="telephone=no"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/D%C3%B4meMiage_from_Miage.jpg/1200px-D%C3%B4meMiage_from_Miage.jpg"/>
-<meta property="og:image:width" content="1200"/>
-<meta property="og:image:height" content="675"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/D%C3%B4meMiage_from_Miage.jpg/800px-D%C3%B4meMiage_from_Miage.jpg"/>
-<meta property="og:image:width" content="800"/>
-<meta property="og:image:height" content="450"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/D%C3%B4meMiage_from_Miage.jpg/640px-D%C3%B4meMiage_from_Miage.jpg"/>
-<meta property="og:image:width" content="640"/>
-<meta property="og:image:height" content="360"/>
 <meta name="viewport" content="width=1000"/>
-<meta property="og:title" content="Dômes de Miage - Wikipedia"/>
+<meta property="og:title" content="Tindivanam taluk - Wikipedia"/>
 <meta property="og:type" content="website"/>
 <link rel="preconnect" href="//upload.wikimedia.org"/>
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/D%C3%B4mes_de_Miage"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=D%C3%B4mes_de_Miage&amp;action=edit"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Tindivanam_taluk"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tindivanam_taluk&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/D%C3%B4mes_de_Miage"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tindivanam_taluk"/>
 <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
 <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 </head>
-<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dômes_de_Miage rootpage-Dômes_de_Miage skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Tindivanam_taluk rootpage-Tindivanam_taluk skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
 <div class="vector-header-container">
 	<header class="vector-header mw-header">
 		<div class="vector-header-start">
@@ -184,7 +175,7 @@
 <div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
 	<div class="vector-menu-content">
 		
-		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=D%C3%B4mes+de+Miage" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=D%C3%B4mes+de+Miage" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tindivanam+taluk" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tindivanam+taluk" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
 		
 	</div>
 </div>
@@ -219,7 +210,7 @@
 <div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
 	<div class="vector-menu-content">
 		
-		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=D%C3%B4mes+de+Miage" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=D%C3%B4mes+de+Miage" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tindivanam+taluk" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tindivanam+taluk" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
 		
 	</div>
 </div>
@@ -281,14 +272,24 @@
 				<div class="vector-toc-text">(Top)</div>
 			</a>
 		</li>
-		<li id="toc-External_links"
+		<li id="toc-Demographics"
 		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
-		<a class="vector-toc-link" href="#External_links">
+		<a class="vector-toc-link" href="#Demographics">
 			<div class="vector-toc-text">
-			<span class="vector-toc-numb">1</span>External links</div>
+			<span class="vector-toc-numb">1</span>Demographics</div>
 		</a>
 		
-		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		<ul id="toc-Demographics-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
 		</ul>
 	</li>
 </ul>
@@ -344,7 +345,7 @@
 	</div>
 </div>
 					</nav>
-					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Dômes de Miage</span></h1>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Tindivanam taluk</span></h1>
 				
 							
 <div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
@@ -354,27 +355,27 @@
 		aria-haspopup="true"
 		data-event-name="ui.dropdown-p-lang-btn"
 		class="vector-menu-checkbox mw-interlanguage-selector"
-		aria-label="Go to an article in another language. Available in 9 languages"
+		aria-label="Go to an article in another language. Available in 2 languages"
 		
 		
 	/>
 	<label
 		id="p-lang-btn-label"
 		for="p-lang-btn-checkbox"
-		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-9"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-2"
 		aria-hidden="true"
 		
 	>
 		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
 
-		<span class="vector-menu-heading-label">9 languages</span>
+		<span class="vector-menu-heading-label">2 languages</span>
 	</label>
 	<div class="vector-menu-content vector-dropdown-content">
 
 		<div class="vector-menu-content">
 			
-			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/D%C3%B4me_de_Miage" title="Dôme de Miage – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/D%C3%B4mes_de_Miage" title="Dômes de Miage – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/D%C3%B4mes_de_Miage" title="Dômes de Miage – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/D%C3%B4mes_de_Miage" title="Dômes de Miage – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%AF%D9%88%D9%85%D9%8A%D8%B3_%D8%AF_%D9%85%D9%8A%D8%A7%D8%AC" title="جبل دوميس د مياج – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/D%C3%B4mes_de_Miage" title="Dômes de Miage – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/D%C3%B4mes_de_Miage" title="Dômes de Miage – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/C%C3%BApula_de_Miage" title="Cúpula de Miage – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%B1%B3%E4%BA%9E%E6%97%A5%E5%B3%B0" title="米亞日峰 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
-			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q646311#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Tindivanam_taluk" title="Tindivanam taluk – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%BF%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AE%AE%E0%AF%8D_%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D" title="திண்டிவனம் வட்டம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12983956#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
 		</div>
 
 	</div>
@@ -389,9 +390,9 @@
 	<div class="vector-menu-content">
 		
 		<ul class="vector-menu-content-list">
-			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/D%C3%B4mes_de_Miage" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Tindivanam_taluk" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
 </li>
-<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:D%C3%B4mes_de_Miage" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:Tindivanam_taluk" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
 </li>
 
 		</ul>
@@ -441,11 +442,11 @@
 	<div class="vector-menu-content">
 		
 		<ul class="vector-menu-content-list">
-			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/D%C3%B4mes_de_Miage" class=""><span>Read</span></a>
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Tindivanam_taluk" class=""><span>Read</span></a>
 </li>
-<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=D%C3%B4mes_de_Miage&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Tindivanam_taluk&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
 </li>
-<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=D%C3%B4mes_de_Miage&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Tindivanam_taluk&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
 </li>
 
 		</ul>
@@ -503,7 +504,7 @@
 	</div>
 	<div class="vector-menu-content">
 		
-		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/D%C3%B4mes_de_Miage"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=D%C3%B4mes_de_Miage&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=D%C3%B4mes_de_Miage&amp;action=history"><span>View history</span></a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Tindivanam_taluk"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Tindivanam_taluk&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Tindivanam_taluk&amp;action=history"><span>View history</span></a></li></ul>
 		
 	</div>
 </div>
@@ -514,7 +515,7 @@
 	</div>
 	<div class="vector-menu-content">
 		
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/D%C3%B4mes_de_Miage" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/D%C3%B4mes_de_Miage" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=D%C3%B4mes_de_Miage&amp;oldid=1050840278" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=D%C3%B4mes_de_Miage&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=D%C3%B4mes_de_Miage&amp;id=1050840278&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q646311" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Tindivanam_taluk" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Tindivanam_taluk" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Tindivanam_taluk&amp;oldid=971356738" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Tindivanam_taluk&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tindivanam_taluk&amp;id=971356738&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12983956" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
 		
 	</div>
 </div>
@@ -525,18 +526,7 @@
 	</div>
 	<div class="vector-menu-content">
 		
-		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=D%C3%B4mes_de_Miage&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=D%C3%B4mes_de_Miage&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
-		
-	</div>
-</div>
-
-<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
-	<div class="vector-menu-heading">
-		In other projects
-	</div>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:D%C3%B4mes_de_Miage" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Tindivanam_taluk&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Tindivanam_taluk&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
 		
 	</div>
 </div>
@@ -568,294 +558,108 @@
 					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
 					
 					
-					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Line of mountain peaks in the Mont Blanc massif</div>
-<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-Unreferenced plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=D%C3%B4mes_de_Miage&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22D%C3%B4mes+de+Miage%22">"Dômes de Miage"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22D%C3%B4mes+de+Miage%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22D%C3%B4mes+de+Miage%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22D%C3%B4mes+de+Miage%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22D%C3%B4mes+de+Miage%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22D%C3%B4mes+de+Miage%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">May 2019</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
-<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard" style="width:24.5em; line-height:1.5em;"><tbody><tr><th colspan="2" class="infobox-above fn org" style="background-color: #E7DCC3;">Dômes de Miage</th></tr><tr><td colspan="2" class="infobox-image" style="padding: 0.3em 0.2em 0.2em 0.2em;"><a href="/wiki/File:D%C3%B4meMiage_from_Miage.jpg" class="image"><img alt="DômeMiage from Miage.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/D%C3%B4meMiage_from_Miage.jpg/272px-D%C3%B4meMiage_from_Miage.jpg" decoding="async" width="272" height="153" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/D%C3%B4meMiage_from_Miage.jpg/408px-D%C3%B4meMiage_from_Miage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/D%C3%B4meMiage_from_Miage.jpg/544px-D%C3%B4meMiage_from_Miage.jpg 2x" data-file-width="3968" data-file-height="2232" /></a><div class="infobox-caption" style="padding: 0.2em 0em;">The Dômes seen from Chalets de Miage</div></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #E7DCC3;">Highest&#160;point</th></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Summit" title="Summit">Elevation</a></th><td class="infobox-data">3,673&#160;m (12,051&#160;ft)</td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Topographic_prominence" title="Topographic prominence">Prominence</a></th><td class="infobox-data">324&#160;m (1,063&#160;ft)&#160;<span class="penicon autoconfirmed-show"><a href="https://www.wikidata.org/wiki/Q646311?uselang=en#P2660" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Topographic_isolation" title="Topographic isolation">Isolation</a></th><td class="infobox-data">1.9&#160;km (1.2&#160;mi)&#160;<span class="penicon autoconfirmed-show"><a href="https://www.wikidata.org/wiki/Q646311?uselang=en#P2659" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Lists_of_mountains" title="Lists of mountains">Listing</a></th><td class="infobox-data category"><a href="/wiki/List_of_mountains_of_the_Alps_above_3000_m" class="mw-redirect" title="List of mountains of the Alps above 3000 m">Alpine mountains above 3000 m</a></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1073938472">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a class="external text" href="//geohack.toolforge.org/geohack.php?pagename=D%C3%B4mes_de_Miage&amp;params=45.81583_N_6.8_E_type:mountain_scale:100000"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">45°48′57″N</span> <span class="longitude">6°48′00″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">45.81583°N 6.8°E</span><span style="display:none">&#xfeff; / <span class="geo">45.81583; 6.8</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1073938472"/><span class="plainlinks nourlexpansion"><a class="external text" href="//geohack.toolforge.org/geohack.php?pagename=D%C3%B4mes_de_Miage&amp;params=45.81583_N_6.8_E_type:mountain_scale:100000"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">45°48′57″N</span> <span class="longitude">6°48′00″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">45.81583°N 6.8°E</span><span style="display:none">&#xfeff; / <span class="geo">45.81583; 6.8</span></span></span></a></span></span></span></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #E7DCC3;">Geography</th></tr><tr><th scope="row" class="infobox-label">Location</th><td class="infobox-data label"><a href="/wiki/Haute-Savoie" title="Haute-Savoie">Haute-Savoie</a>, <a href="/wiki/Rh%C3%B4ne-Alpes" title="Rhône-Alpes">Rhône-Alpes</a>, <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/France" title="France">France</a></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Mountain_range" title="Mountain range"><span class="nowrap">Parent range</span></a></th><td class="infobox-data category"><a href="/wiki/Mont_Blanc_massif" title="Mont Blanc massif">Mont Blanc massif</a></td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #E7DCC3;">Geology</th></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/List_of_mountain_types" title="List of mountain types">Mountain type</a></th><td class="infobox-data">snow-covered arête</td></tr><tr><th colspan="2" class="infobox-header" style="background-color: #E7DCC3;">Climbing</th></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/First_ascent" title="First ascent">First ascent</a></th><td class="infobox-data">2 September 1858, Edmond Thomas Coleman, with Frédéric Mollard and Joseph Jacquemont</td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Normal_route" title="Normal route">Normal route</a></th><td class="infobox-data">via the <i>Refuge des Conscrits</i></td></tr></tbody></table>
-<p>The <b>Dômes de Miage</b> are a line of mountain peaks in the south of the <a href="/wiki/Mont_Blanc_massif" title="Mont Blanc massif">Mont Blanc massif</a> that reach a height of 3,673 metres. The snow-covered <a href="/wiki/Ar%C3%AAte" title="Arête">arête</a> from which they rise is over three kilometres long. The six peaks in the chain are (from southwest to northeast)&#160;: L'Aiguille de la Bérangère (3,425 m), and unnamed tops known only from their heights as Dôme 3670, Dôme 3666, Dôme 3633, Dôme 3673 and Dôme 3672.
-</p><p>The ridge of the dômes de Miage is considered one of the most striking in the Mont Blanc massif.
-</p><p>The <a href="/wiki/Normal_route" title="Normal route">normal route</a> starts at the <i>Refuge des Conscrits</i>, crosses the <a href="/w/index.php?title=Tr%C3%A9-la-T%C3%AAte_glacier&amp;action=edit&amp;redlink=1" class="new" title="Tré-la-Tête glacier (page does not exist)">Tré-la-Tête glacier</a>, climbs to <i>Col des Dômes</i> (between tops 3633 and 3673) and follows the arête as far as La Bérangère (PD). A crossing from end to end runs from the <i>Refuge des Conscrits</i> to <a href="/wiki/Refuge_Durier" class="mw-redirect" title="Refuge Durier">refuge Durier</a> and is a little more difficult (AD). It is usually combined with the long traverse over the  <a href="/wiki/Aiguille_de_Bionnassay" title="Aiguille de Bionnassay">Aiguille de Bionnassay</a> to <a href="/wiki/Mont_Blanc" title="Mont Blanc">Mont Blanc</a>.
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><p>
+<b>Tindivanam taluk</b> is a <a href="/wiki/Taluk" class="mw-redirect" title="Taluk">taluk</a> of <a href="/wiki/Viluppuram_district" title="Viluppuram district">Viluppuram district</a> of the <a href="/wiki/Indian_state" class="mw-redirect" title="Indian state">Indian state</a> of <a href="/wiki/Tamil_Nadu" title="Tamil Nadu">Tamil Nadu</a>. The headquarters of the taluk is the town of <a href="/wiki/Tindivanam" title="Tindivanam">Tindivanam</a>.
 </p>
-<table>
-<tbody><tr>
-<td><ul class="gallery mw-gallery-packed">
-		<li class="gallerybox" style="width: 202px"><div style="width: 202px">
-			<div class="thumb" style="width: 200px;"><div style="margin:0px auto;"><a href="/wiki/File:DomeMiage.jpg" class="image" title="Dômes de Miage at sunset."><img alt="Dômes de Miage at sunset." src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DomeMiage.jpg/300px-DomeMiage.jpg" decoding="async" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DomeMiage.jpg/451px-DomeMiage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DomeMiage.jpg/600px-DomeMiage.jpg 2x" data-file-width="2816" data-file-height="2112" /></a></div></div>
-			<div class="gallerytext">
-<p>Dômes de Miage at sunset.
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tindivanam_taluk&amp;action=edit&amp;section=1" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2011, the taluk of Tindivanam had a population of 446,024 with 223,391 males and 222,633 females. There were 997 women for every 1,000 men. The taluk had a literacy rate of 67.66%. Child population in the age group below 6 years were 23,196 males and 22,445 females.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
 </p>
-			</div>
-		</div></li>
-		<li class="gallerybox" style="width: 202px"><div style="width: 202px">
-			<div class="thumb" style="width: 200px;"><div style="margin:0px auto;"><a href="/wiki/File:Domes_de_Miage.jpg" class="image" title="The Dômes with Chalets de Miage in the foreground."><img alt="The Dômes with Chalets de Miage in the foreground." src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Domes_de_Miage.jpg/300px-Domes_de_Miage.jpg" decoding="async" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Domes_de_Miage.jpg/451px-Domes_de_Miage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Domes_de_Miage.jpg/600px-Domes_de_Miage.jpg 2x" data-file-width="3072" data-file-height="2304" /></a></div></div>
-			<div class="gallerytext">
-<p>The Dômes with Chalets de Miage in the foreground.
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tindivanam_taluk&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130617095215/http://www.census.tn.nic.in/census2011data/PPT_taluk_data_final.pdf">"Provisional Population Totals - Tamil Nadu-Census 2011"</a> <span class="cs1-format">(PDF)</span>. Census Tamil Nadu. Archived from <a rel="nofollow" class="external text" href="https://www.census.tn.nic.in/census2011data/PPT_taluk_data_final.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 17 June 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Provisional+Population+Totals+-+Tamil+Nadu-Census+2011&amp;rft.pub=Census+Tamil+Nadu&amp;rft_id=http%3A%2F%2Fwww.census.tn.nic.in%2Fcensus2011data%2FPPT_taluk_data_final.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATindivanam+taluk" class="Z3988"></span></span>
+</li>
+</ol></div>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Viluppuram_District" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"/><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Viluppuram_district" title="Template:Viluppuram district"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Viluppuram_district" title="Template talk:Viluppuram district"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Viluppuram_district&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Viluppuram_District" style="font-size:114%;margin:0 4em"><a href="/wiki/Viluppuram_District" class="mw-redirect" title="Viluppuram District">Viluppuram District</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;line-height:1.1em;">Taluks</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Gingee_taluk" title="Gingee taluk">Gingee</a></li>
+<li><a href="/wiki/Kandachipuram_taluk" title="Kandachipuram taluk">Kandachipuram</a></li>
+<li><a href="/w/index.php?title=Marakkanam_taluk&amp;action=edit&amp;redlink=1" class="new" title="Marakkanam taluk (page does not exist)">Marakkanam</a></li>
+<li><a href="/w/index.php?title=Melmalayanur_taluk&amp;action=edit&amp;redlink=1" class="new" title="Melmalayanur taluk (page does not exist)">Melmalayanur</a></li>
+<li><a class="mw-selflink selflink">Tindivanam</a></li>
+<li><a href="/wiki/Tiruvennainallur_taluk" class="mw-redirect" title="Tiruvennainallur taluk">Tiruvennainallur</a></li>
+<li><a href="/wiki/Vanur_taluk" title="Vanur taluk">Vanur</a></li>
+<li><a href="/w/index.php?title=Vikravandi_taluk&amp;action=edit&amp;redlink=1" class="new" title="Vikravandi taluk (page does not exist)">Vikravandi</a></li>
+<li><a href="/wiki/Viluppuram_taluk" title="Viluppuram taluk">Villupuram</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;line-height:1.1em;">Revenue <br /> divisions</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Thirukoilur_division" title="Thirukoilur division">Thirukoilur</a></li>
+<li><a href="/wiki/Tindivanam_division" title="Tindivanam division">Tindivanam</a></li>
+<li><a href="/wiki/Viluppuram_division" title="Viluppuram division">Viluppuram</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;line-height:1.1em;">Revenue <br />blocks</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Gingee_block" title="Gingee block">Gingee</a></li>
+<li><a href="/wiki/Kanai_block" title="Kanai block">Kanai</a></li>
+<li><a href="/wiki/Kandamangalam_block" title="Kandamangalam block">Kandamangalam</a></li>
+<li><a href="/wiki/Koliyanur_block" title="Koliyanur block">Koliyanur</a></li>
+<li><a href="/wiki/Mailam_block" title="Mailam block">Mailam</a></li>
+<li><a href="/wiki/Marakkanam_block" title="Marakkanam block">Marakkanam</a></li>
+<li><a href="/wiki/Melmalayanur_block" title="Melmalayanur block">Melmalayanur</a></li>
+<li><a href="/wiki/Mugaiyur_block" title="Mugaiyur block">Mugaiyur</a></li>
+<li><a href="/wiki/Olakkur_block" title="Olakkur block">Olakkur</a></li>
+<li><a href="/wiki/Tirunavalur_block" title="Tirunavalur block">Tirunavalur</a></li>
+<li><a href="/wiki/Vallam_block" title="Vallam block">Vallam</a></li>
+<li><a href="/wiki/Vanur_block" title="Vanur block">Vanur</a></li>
+<li><a href="/wiki/Vikravandi_block" title="Vikravandi block">Vikravandi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;line-height:1.1em;">Cities and <br />towns</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Ananthapuram" title="Ananthapuram">Ananthapuram</a></li>
+<li><a href="/wiki/Arakandanallur" title="Arakandanallur">Arakandanallur</a></li>
+<li><a href="/wiki/Auroville" title="Auroville">Auroville</a></li>
+<li><a href="/wiki/Gingee" title="Gingee">Gingee</a></li>
+<li><a href="/wiki/Kiliyanur" title="Kiliyanur">Kiliyanur</a></li>
+<li><a href="/wiki/Kottakuppam" title="Kottakuppam">Kottakuppam</a></li>
+<li><a href="/wiki/Marakkanam" title="Marakkanam">Marakkanam</a></li>
+<li><a href="/wiki/Melmalayanur" title="Melmalayanur">Melmalayanur</a></li>
+<li><a href="/wiki/Melmaruvathur" title="Melmaruvathur">Melmaruvathur</a></li>
+<li><a href="/wiki/Olakur" title="Olakur">Olakur</a></li>
+<li><a href="/wiki/Thennamadevi" title="Thennamadevi">Thennamadevi</a></li>
+<li><a href="/wiki/Thiruvennainallur" title="Thiruvennainallur">Thiruvennainallur</a></li>
+<li><a href="/wiki/Tindivanam" title="Tindivanam">Tindivanam</a></li>
+<li><a href="/wiki/Valavanur" title="Valavanur">Valavanur</a></li>
+<li><a href="/wiki/Veerabayangaram" title="Veerabayangaram">Veerabayangaram</a></li>
+<li><a href="/wiki/Veerapondi" class="mw-redirect" title="Veerapondi">Veerapondi</a></li>
+<li><a href="/wiki/Vikravandi" title="Vikravandi">Vikravandi</a></li>
+<li><a href="/wiki/Viluppuram" title="Viluppuram">Viluppuram</a> <small>(district headquarters)</small></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>See also: <a href="/wiki/List_of_villages_in_Viluppuram_district" title="List of villages in Viluppuram district">List of villages in Viluppuram district</a></div></td></tr></tbody></table></div>
+<p><span class="metadata coord-missing"></span>
+</p><p><br />
 </p>
-			</div>
-		</div></li>
-		<li class="gallerybox" style="width: 212px"><div style="width: 212px">
-			<div class="thumb" style="width: 210px;"><div style="margin:0px auto;"><a href="/wiki/File:DomesdeMiage.png" class="image" title="The Dômes in winter seen from the Les Contamines-Montjoie."><img alt="The Dômes in winter seen from the Les Contamines-Montjoie." src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/DomesdeMiage.png/315px-DomesdeMiage.png" decoding="async" width="210" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/DomesdeMiage.png/473px-DomesdeMiage.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/DomesdeMiage.png/630px-DomesdeMiage.png 2x" data-file-width="3072" data-file-height="2196" /></a></div></div>
-			<div class="gallerytext">
-<p>The Dômes in winter seen from the <a href="/wiki/Les_Contamines-Montjoie" title="Les Contamines-Montjoie">Les Contamines-Montjoie</a>.
-</p>
-			</div>
-		</div></li>
-		<li class="gallerybox" style="width: 392px"><div style="width: 392px">
-			<div class="thumb" style="width: 390px;"><div style="margin:0px auto;"><a href="/wiki/File:Vall%C3%A9e_des_Contamines-Montjoie.jpg" class="image" title="Summer view of the valley of Les Contamines ; left: the snow-capped Dômes, facing Mont-Joly."><img alt="Summer view of the valley of Les Contamines ; left: the snow-capped Dômes, facing Mont-Joly." src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Vall%C3%A9e_des_Contamines-Montjoie.jpg/585px-Vall%C3%A9e_des_Contamines-Montjoie.jpg" decoding="async" width="390" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Vall%C3%A9e_des_Contamines-Montjoie.jpg/879px-Vall%C3%A9e_des_Contamines-Montjoie.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Vall%C3%A9e_des_Contamines-Montjoie.jpg/1170px-Vall%C3%A9e_des_Contamines-Montjoie.jpg 2x" data-file-width="5083" data-file-height="1955" /></a></div></div>
-			<div class="gallerytext">
-<p>Summer view of the valley of Les Contamines&#160;; left: the snow-capped Dômes, facing  Mont-Joly.
-</p>
-			</div>
-		</div></li>
-		<li class="gallerybox" style="width: 259.33333333333px"><div style="width: 259.33333333333px">
-			<div class="thumb" style="width: 257.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/File:Chalets_et_domes_de_Miage.jpg" class="image" title="The approach route to the Chalets de Miage, with the Dômes behind."><img alt="The approach route to the Chalets de Miage, with the Dômes behind." src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chalets_et_domes_de_Miage.jpg/386px-Chalets_et_domes_de_Miage.jpg" decoding="async" width="258" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chalets_et_domes_de_Miage.jpg/580px-Chalets_et_domes_de_Miage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chalets_et_domes_de_Miage.jpg/772px-Chalets_et_domes_de_Miage.jpg 2x" data-file-width="5640" data-file-height="3288" /></a></div></div>
-			<div class="gallerytext">
-<p>The approach route to the Chalets de Miage, with the Dômes behind.
-</p>
-			</div>
-		</div></li>
-</ul>
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=D%C3%B4mes_de_Miage&amp;action=edit&amp;section=1" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
-<div class="side-box-flex">
-<div class="side-box-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></div>
-<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:D%C3%B4mes_de_Miage" class="extiw" title="commons:Category:Dômes de Miage">Dômes de Miage</a></span>.</div></div>
-</div>
-<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Mont_Blanc_massif" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"/><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Mont_Blanc_massif" title="Template:Mont Blanc massif"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Mont_Blanc_massif" title="Template talk:Mont Blanc massif"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Mont_Blanc_massif&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Mont_Blanc_massif" style="font-size:114%;margin:0 4em"><a href="/wiki/Mont_Blanc_massif" title="Mont Blanc massif">Mont Blanc massif</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding:0.2em 1.0em; line-height:1.1em;"><a href="/wiki/Human_settlement" title="Human settlement">Settlements</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Argenti%C3%A8re" title="Argentière">Argentière</a></li>
-<li><a href="/wiki/Chamonix" title="Chamonix">Chamonix</a></li>
-<li><a href="/wiki/Champex" title="Champex">Champex</a></li>
-<li><a href="/wiki/Courmayeur" title="Courmayeur">Courmayeur</a></li>
-<li><a href="/wiki/La_Fouly" title="La Fouly">La Fouly</a></li>
-<li><a href="/wiki/Les_Houches" title="Les Houches">Les Houches</a></li>
-<li><a href="/wiki/Montroc" title="Montroc">Montroc</a></li>
-<li><a href="/wiki/Les_Praz" title="Les Praz">Les Praz</a></li>
-<li><a href="/wiki/Saint-Gervais-les-Bains" title="Saint-Gervais-les-Bains">Saint-Gervais-les-Bains</a></li>
-<li><a href="/wiki/Trient,_Switzerland" title="Trient, Switzerland">Trient</a></li></ul>
-</div></td><td class="noviewer navbox-image" rowspan="7" style="width:1px;padding:0 0 0 2px"><div><a href="/wiki/File:Aiguille_du_Dru_in_2006.jpg" class="image"><img alt="The west and south-west faces of the Aiguille du Dru" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Aiguille_du_Dru_in_2006.jpg/90px-Aiguille_du_Dru_in_2006.jpg" decoding="async" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Aiguille_du_Dru_in_2006.jpg/135px-Aiguille_du_Dru_in_2006.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Aiguille_du_Dru_in_2006.jpg/180px-Aiguille_du_Dru_in_2006.jpg 2x" data-file-width="1179" data-file-height="1572" /></a><br /><a href="/wiki/File:GrandesJorasses.jpg" class="image"><img alt="North face of the Grandes Jorasses and the Leschaux Glacier" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/GrandesJorasses.jpg/90px-GrandesJorasses.jpg" decoding="async" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/GrandesJorasses.jpg/135px-GrandesJorasses.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/GrandesJorasses.jpg/180px-GrandesJorasses.jpg 2x" data-file-width="600" data-file-height="800" /></a><br /><a href="/wiki/File:Mbcourmayeur0001.jpg" class="image"><img alt="Mont Blanc de Courmayeur" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mbcourmayeur0001.jpg/90px-Mbcourmayeur0001.jpg" decoding="async" width="90" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mbcourmayeur0001.jpg/135px-Mbcourmayeur0001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mbcourmayeur0001.jpg/180px-Mbcourmayeur0001.jpg 2x" data-file-width="700" data-file-height="502" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding:0.2em 1.0em; line-height:1.1em;"><a href="/wiki/Mountain" title="Mountain">Mountains</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Aiguille_d%27Argenti%C3%A8re" title="Aiguille d&#39;Argentière">Aiguille d'Argentière</a></li>
-<li><a href="/wiki/Aiguille_de_Bionnassay" title="Aiguille de Bionnassay">Aiguille de Bionnassay</a></li>
-<li><a href="/wiki/Aiguille_de_Blaiti%C3%A8re" title="Aiguille de Blaitière">Aiguille de Blaitière</a></li>
-<li><a href="/wiki/Aiguille_Blanche_de_Peuterey" title="Aiguille Blanche de Peuterey">Aiguille Blanche de Peuterey</a></li>
-<li><a href="/wiki/Aiguille_du_Chardonnet" title="Aiguille du Chardonnet">Aiguille du Chardonnet</a></li>
-<li><a href="/wiki/Aiguilles_du_Diable" title="Aiguilles du Diable">Aiguilles du Diable</a></li>
-<li><a href="/wiki/Aiguilles_Dor%C3%A9es" title="Aiguilles Dorées">Aiguilles Dorées</a></li>
-<li><a href="/wiki/Aiguille_du_Dru" title="Aiguille du Dru">Aiguille du Dru</a></li>
-<li><a href="/wiki/Aiguille_des_Glaciers" title="Aiguille des Glaciers">Aiguille des Glaciers</a></li>
-<li><a href="/wiki/Aiguille_du_Go%C3%BBter" title="Aiguille du Goûter">Aiguille du Goûter</a></li>
-<li><a href="/wiki/Aiguille_des_Grands_Charmoz" title="Aiguille des Grands Charmoz">Aiguille des Grands Charmoz</a></li>
-<li><a href="/wiki/Aiguille_des_Grands_Montets" title="Aiguille des Grands Montets">Aiguille des Grands Montets</a></li>
-<li><a href="/wiki/Aiguille_du_Gr%C3%A9pon" title="Aiguille du Grépon">Aiguille du Grépon</a></li>
-<li><a href="/wiki/Aiguille_du_Jardin" title="Aiguille du Jardin">Aiguille du Jardin</a></li>
-<li><a href="/wiki/Aiguille_du_Midi" title="Aiguille du Midi">Aiguille du Midi</a></li>
-<li><a href="/wiki/Aiguille_de_l%27A_Neuve" title="Aiguille de l&#39;A Neuve">Aiguille de l'A Neuve</a></li>
-<li><a href="/wiki/Aiguille_Noire_de_Peuterey" title="Aiguille Noire de Peuterey">Aiguille Noire de Peuterey</a></li>
-<li><a href="/wiki/Aiguille_du_Pissoir" class="mw-redirect" title="Aiguille du Pissoir">Aiguille du Pissoir</a></li>
-<li><a href="/wiki/Aiguille_du_Plan" title="Aiguille du Plan">Aiguille du Plan</a></li>
-<li><a href="/wiki/Aiguille_de_Rochefort" title="Aiguille de Rochefort">Aiguille de Rochefort</a></li>
-<li><a href="/wiki/Aiguille_du_Tour" title="Aiguille du Tour">Aiguille du Tour</a></li>
-<li><a href="/wiki/Aiguille_de_Tr%C3%A9_la_T%C3%AAte" title="Aiguille de Tré la Tête">Aiguille de Tré la Tête</a></li>
-<li><a href="/wiki/Aiguille_de_Triolet" title="Aiguille de Triolet">Aiguille de Triolet</a></li>
-<li><a href="/wiki/Aiguille_Verte" title="Aiguille Verte">Aiguille Verte</a></li>
-<li><a href="/wiki/La_Breya" title="La Breya">La Breya</a></li>
-<li><a href="/wiki/Le_Catogne" title="Le Catogne">Le Catogne</a></li>
-<li><a href="/wiki/Le_Ch%C3%A2telet_(Mont_Blanc)" class="mw-redirect" title="Le Châtelet (Mont Blanc)">Le Châtelet (Mont Blanc)</a></li>
-<li><a href="/wiki/Dent_du_G%C3%A9ant" title="Dent du Géant">Dent du Géant</a></li>
-<li><a href="/wiki/D%C3%B4me_du_Go%C3%BBter" title="Dôme du Goûter">Dôme du Goûter</a></li>
-<li><a href="/wiki/D%C3%B4me_de_Rochefort" title="Dôme de Rochefort">Dôme de Rochefort</a></li>
-<li><a href="/wiki/Les_Droites" title="Les Droites">Les Droites</a></li>
-<li><a href="/wiki/Le_G%C3%A9n%C3%A9pi" title="Le Génépi">Le Génépi</a></li>
-<li><a href="/wiki/Grand_Capucin" title="Grand Capucin">Grand Capucin</a></li>
-<li><a href="/wiki/Grand_Darray" title="Grand Darray">Grand Darray</a></li>
-<li><a href="/wiki/Grand_Pilier_d%27Angle" title="Grand Pilier d&#39;Angle">Grand Pilier d'Angle</a></li>
-<li><a href="/wiki/Grande_Lui" title="Grande Lui">Grande Lui</a></li>
-<li><a href="/wiki/Grande_Pointe_des_Planereuses" title="Grande Pointe des Planereuses">Grande Pointe des Planereuses</a></li>
-<li><a href="/wiki/Grande_Rocheuse" title="Grande Rocheuse">Grande Rocheuse</a></li>
-<li><a href="/wiki/Grandes_Jorasses" title="Grandes Jorasses">Grandes Jorasses</a></li>
-<li><a href="/wiki/Mont_Blanc" title="Mont Blanc">Mont Blanc</a></li>
-<li><a href="/wiki/Mont_Blanc_de_Courmayeur" title="Mont Blanc de Courmayeur">Mont Blanc de Courmayeur</a></li>
-<li><a href="/wiki/Mont_Blanc_du_Tacul" title="Mont Blanc du Tacul">Mont Blanc du Tacul</a></li>
-<li><a href="/wiki/Mont_Brouillard" title="Mont Brouillard">Mont Brouillard</a></li>
-<li><a href="/wiki/Mont_Dolent" title="Mont Dolent">Mont Dolent</a></li>
-<li><a href="/wiki/Mont_Mallet" title="Mont Mallet">Mont Mallet</a></li>
-<li><a href="/wiki/Mont_Maudit" title="Mont Maudit">Mont Maudit</a></li>
-<li><a href="/wiki/Pic_Eccles" title="Pic Eccles">Pic Eccles</a></li>
-<li><a href="/wiki/Picco_Luigi_Amedeo" class="mw-redirect" title="Picco Luigi Amedeo">Picco Luigi Amedeo</a></li>
-<li><a href="/wiki/Pointe_Allobrogia" title="Pointe Allobrogia">Pointe Allobrogia</a></li>
-<li><a href="/wiki/Pointe_Helbronner" title="Pointe Helbronner">Pointe Helbronner</a></li>
-<li><a href="/wiki/Pointe_d%27Orny" title="Pointe d&#39;Orny">Pointe d'Orny</a></li>
-<li><a href="/wiki/Pointe_des_Plines" title="Pointe des Plines">Pointe des Plines</a></li>
-<li><a href="/wiki/Pointe_Ronde" title="Pointe Ronde">Pointe Ronde</a></li>
-<li><a href="/wiki/Pointe_Walker" class="mw-redirect" title="Pointe Walker">Pointe Walker</a></li>
-<li><a href="/wiki/Le_Portalet" title="Le Portalet">Le Portalet</a></li>
-<li><a href="/wiki/Punta_Baretti" title="Punta Baretti">Punta Baretti</a></li>
-<li><a href="/wiki/Tita_Neire" title="Tita Neire">Tita Neire</a></li>
-<li><a href="/wiki/Tour_Noir" title="Tour Noir">Tour Noir</a></li>
-<li><a href="/wiki/Tour_Ronde" title="Tour Ronde">Tour Ronde</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding:0.2em 1.0em; line-height:1.1em;"><a href="/wiki/Mountain_pass" title="Mountain pass">Cols</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Col_Ferret" title="Col Ferret">Col Ferret</a></li>
-<li><a href="/wiki/Petit_Col_Ferret" title="Petit Col Ferret">Petit Col Ferret</a></li>
-<li><a href="/wiki/Col_des_Montets" title="Col des Montets">Col des Montets</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding:0.2em 1.0em; line-height:1.1em;"><a href="/wiki/Glacier" title="Glacier">Glaciers</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Argenti%C3%A8re_Glacier" title="Argentière Glacier">Argentière</a></li>
-<li><a href="/wiki/Bossons_Glacier" title="Bossons Glacier">Bossons</a></li>
-<li><a href="/wiki/Mer_de_Glace" title="Mer de Glace">Mer de Glace</a></li>
-<li><a href="/wiki/Miage_Glacier" title="Miage Glacier">Miage</a></li>
-<li><a href="/wiki/Saleina_Glacier" title="Saleina Glacier">Saleina</a></li>
-<li><a href="/wiki/T%C3%AAte_Rousse_Glacier" title="Tête Rousse Glacier">Tête Rousse</a></li>
-<li><a href="/wiki/Trient_Glacier" title="Trient Glacier">Trient</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding:0.2em 1.0em; line-height:1.1em;"><a href="/wiki/Mountain_hut" title="Mountain hut">Refuges</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Albert_Premier_Hut" title="Albert Premier Hut">Albert Premier</a></li>
-<li><a href="/wiki/A_Neuve_Hut" title="A Neuve Hut">A Neuve</a></li>
-<li><a href="/wiki/Argenti%C3%A8re_Hut" title="Argentière Hut">Argentière</a></li>
-<li><a href="/wiki/Charpoua_Hut" title="Charpoua Hut">Charpoua</a></li>
-<li><a href="/wiki/Cosmiques_Hut" title="Cosmiques Hut">Cosmiques</a></li>
-<li><a href="/wiki/Couvercle_Hut" title="Couvercle Hut">Couvercle</a></li>
-<li><a href="/wiki/Durier_Hut" title="Durier Hut">Durier</a></li>
-<li><a href="/wiki/Rifugio_Elisabetta" title="Rifugio Elisabetta">Elisabetta</a></li>
-<li><a href="/wiki/Gonella_Hut" title="Gonella Hut">Francesco Gonella</a></li>
-<li><a href="/wiki/Grands_Mulets_Hut" title="Grands Mulets Hut">Grands Mulets</a></li>
-<li><a href="/wiki/Leschaux_Hut" title="Leschaux Hut">Leschaux</a></li>
-<li><a href="/wiki/Refuge_Mont-Blanc" title="Refuge Mont-Blanc">Mont-Blanc</a></li>
-<li><a href="/wiki/Refuge_du_Plan_de_l%27Aiguille" title="Refuge du Plan de l&#39;Aiguille">Plan de l'Aiguille</a></li>
-<li><a href="/wiki/Quintino_Sella_Hut_(Mont_Blanc)" title="Quintino Sella Hut (Mont Blanc)">Quintino Sella</a></li>
-<li><a href="/wiki/T%C3%AAte_Rousse_Hut" title="Tête Rousse Hut">Tête Rousse</a></li>
-<li><a href="/wiki/Torino_Hut" title="Torino Hut">Torino</a></li>
-<li><a href="/wiki/Refuge_de_Tr%C3%A9_la_T%C3%AAte" title="Refuge de Tré la Tête">Tré la Tête</a></li>
-<li><a href="/wiki/Trient_Hut" title="Trient Hut">Trient</a></li>
-<li><a href="/wiki/Saleina_Hut" title="Saleina Hut">Saleina</a></li>
-<li><a href="/wiki/Vallot_Hut" title="Vallot Hut">Vallot</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding:0.2em 1.0em; line-height:1.1em;"><a href="/wiki/Mountaineering" title="Mountaineering">Mountaineers</a><br /><a href="/wiki/First_ascent" title="First ascent">(first or major ascents)</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Pierre_Allain" title="Pierre Allain">Allain</a></li>
-<li><a href="/wiki/Christian_Almer" title="Christian Almer">Almer</a></li>
-<li><a href="/wiki/Jakob_Anderegg" title="Jakob Anderegg">Anderegg (J.)</a></li>
-<li><a href="/wiki/Melchior_Anderegg" title="Melchior Anderegg">Anderegg (M.)</a></li>
-<li><a href="/wiki/Jacques_Balmat" title="Jacques Balmat">Balmat</a></li>
-<li><a href="/wiki/Barry_Blanchard" title="Barry Blanchard">Blanchard</a></li>
-<li><a href="/wiki/Karl_Blodig" title="Karl Blodig">Blodig</a></li>
-<li><a href="/wiki/Jean-Marc_Boivin" title="Jean-Marc Boivin">Boivin</a></li>
-<li><a href="/wiki/Walter_Bonatti" title="Walter Bonatti">Bonatti</a></li>
-<li><a href="/wiki/Chris_Bonington" title="Chris Bonington">Bonington</a></li>
-<li><a href="/wiki/Loulou_Boulaz" title="Loulou Boulaz">Boulaz</a></li>
-<li><a href="/wiki/Lily_Bristow" title="Lily Bristow">Bristow</a></li>
-<li><a href="/wiki/Joe_Brown_(climber)" title="Joe Brown (climber)">Brown</a></li>
-<li><a href="/wiki/Alexander_Burgener" title="Alexander Burgener">Burgener</a></li>
-<li><a href="/wiki/Riccardo_Cassin" title="Riccardo Cassin">Cassin</a></li>
-<li><a href="/wiki/Armand_Charlet" title="Armand Charlet">Charlet</a></li>
-<li><a href="/wiki/Ian_Clough" title="Ian Clough">Clough</a></li>
-<li><a href="/wiki/Henri_Cordier_(mountaineer)" title="Henri Cordier (mountaineer)">Cordier (H.)</a></li>
-<li><a href="/wiki/Patrick_Cordier_(alpinist)" title="Patrick Cordier (alpinist)">Cordier (P.)</a></li>
-<li><a href="/wiki/Jean_Couzy" title="Jean Couzy">Couzy</a></li>
-<li><a href="/wiki/Michel_Croz" title="Michel Croz">Croz</a></li>
-<li><a href="/wiki/Clinton_Thomas_Dent" title="Clinton Thomas Dent">Dent</a></li>
-<li><a href="/wiki/Ren%C3%A9_Desmaison" title="René Desmaison">Desmaison</a></li>
-<li><a href="/wiki/Catherine_Destivelle" title="Catherine Destivelle">Destivelle</a></li>
-<li><a href="/wiki/Jan_D%C5%82ugosz_(mountaineer)" title="Jan Długosz (mountaineer)">Długosz</a></li>
-<li><a href="/wiki/James_Eccles" title="James Eccles">Eccles</a></li>
-<li><a href="/wiki/Oscar_Eckenstein" title="Oscar Eckenstein">Eckenstein</a></li>
-<li><a href="/wiki/Patrick_Gabarrou" title="Patrick Gabarrou">Gabarrou</a></li>
-<li><a href="/wiki/Ivano_Ghirardini" title="Ivano Ghirardini">Ghirardini</a></li>
-<li><a href="/wiki/Thomas_Graham_Brown" title="Thomas Graham Brown">Graham Brown</a></li>
-<li><a href="/wiki/Paul_G%C3%BCssfeldt" title="Paul Güssfeldt">Güssfeldt</a></li>
-<li><a href="/wiki/John_Harlin" title="John Harlin">Harlin</a></li>
-<li><a href="/wiki/Andreas_Heckmair" class="mw-redirect" title="Andreas Heckmair">Heckmair</a></li>
-<li><a href="/wiki/Gary_Hemming" title="Gary Hemming">Hemming</a></li>
-<li><a href="/wiki/Charles_Hudson_(climber)" title="Charles Hudson (climber)">Hudson</a></li>
-<li><a href="/wiki/Edward_Shirley_Kennedy" title="Edward Shirley Kennedy">Kennedy</a></li>
-<li><a href="/wiki/Sir_Henry_King,_1st_Baronet" class="mw-redirect" title="Sir Henry King, 1st Baronet">King</a></li>
-<li><a href="/wiki/Christian_Klucker" title="Christian Klucker">Klucker</a></li>
-<li><a href="/wiki/Moriz_von_Kuffner" title="Moriz von Kuffner">Kuffner</a></li>
-<li><a href="/wiki/Jerzy_Kukuczka" title="Jerzy Kukuczka">Kukuczka</a></li>
-<li><a href="/wiki/Wojciech_Kurtyka" title="Wojciech Kurtyka">Kurtyka</a></li>
-<li><a href="/wiki/Louis_Lachenal" title="Louis Lachenal">Lachenal</a></li>
-<li><a href="/wiki/Jean-Christophe_Lafaille" title="Jean-Christophe Lafaille">Lafaille</a></li>
-<li><a href="/wiki/Raymond_Lambert" title="Raymond Lambert">Lambert</a></li>
-<li><a href="/wiki/Alex_MacIntyre" title="Alex MacIntyre">MacIntyre</a></li>
-<li><a href="/wiki/John_Oakley_Maund" title="John Oakley Maund">Maund</a></li>
-<li><a href="/wiki/Pierre_Mazeaud" title="Pierre Mazeaud">Mazeaud</a></li>
-<li><a href="/wiki/Reinhold_Messner" title="Reinhold Messner">Messner</a></li>
-<li><a href="/wiki/Thomas_Middlemore" title="Thomas Middlemore">Middlemore</a></li>
-<li><a href="/wiki/Adolphus_Warburton_Moore" title="Adolphus Warburton Moore">Moore</a></li>
-<li><a href="/wiki/Albert_F._Mummery" title="Albert F. Mummery">Mummery</a></li>
-<li><a href="/wiki/Michel-Gabriel_Paccard" title="Michel-Gabriel Paccard">Paccard</a></li>
-<li><a href="/wiki/Marie_Paradis" title="Marie Paradis">Paradis</a></li>
-<li><a href="/wiki/Tom_Patey" title="Tom Patey">Patey</a></li>
-<li><a href="/wiki/Pope_Pius_XI" title="Pope Pius XI">Ratti</a></li>
-<li><a href="/wiki/Gaston_R%C3%A9buffat" title="Gaston Rébuffat">Rébuffat</a></li>
-<li><a href="/wiki/Emile_Rey" class="mw-redirect" title="Emile Rey">Rey</a></li>
-<li><a href="/wiki/Royal_Robbins" title="Royal Robbins">Robbins</a></li>
-<li><a href="/wiki/Andr%C3%A9_Roch" title="André Roch">Roch</a></li>
-<li><a href="/wiki/Alan_Rouse" title="Alan Rouse">Rouse</a></li>
-<li><a href="/wiki/Horace-B%C3%A9n%C3%A9dict_de_Saussure" class="mw-redirect" title="Horace-Bénédict de Saussure">de Saussure</a></li>
-<li><a href="/wiki/Frank_Smythe" title="Frank Smythe">Smythe</a></li>
-<li><a href="/wiki/Leslie_Stephen" title="Leslie Stephen">Stephen</a></li>
-<li><a href="/wiki/Lionel_Terray" title="Lionel Terray">Terray</a></li>
-<li><a href="/wiki/Mark_Twight" title="Mark Twight">Twight</a></li>
-<li><a href="/wiki/Patrick_Vallen%C3%A7ant" title="Patrick Vallençant">Vallençant</a></li>
-<li><a href="/wiki/Horace_Walker" title="Horace Walker">Walker</a></li>
-<li><a href="/wiki/Don_Whillans" title="Don Whillans">Whillans</a></li>
-<li><a href="/wiki/Edward_Whymper" title="Edward Whymper">Whymper</a></li>
-<li><a href="/wiki/Geoffrey_Winthrop_Young" title="Geoffrey Winthrop Young">Winthrop Young</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding:0.2em 1.0em; line-height:1.1em;">Other</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><a href="/wiki/Arve" title="Arve">Arve (river)</a></li>
-<li><a href="/wiki/Chemin_de_fer_du_Montenvers" title="Chemin de fer du Montenvers">Chemin de fer du Montenvers</a></li>
-<li><a href="/wiki/Giardino_Botanico_Alpino_Saussurea" class="mw-redirect" title="Giardino Botanico Alpino Saussurea">Giardino Botanico Alpino Saussurea</a></li>
-<li><a href="/wiki/Haute_Route" title="Haute Route">Haute Route</a></li>
-<li><a href="/wiki/Marathon_du_Mont_Blanc" title="Marathon du Mont Blanc">Marathon du Mont Blanc</a></li>
-<li><a href="/wiki/Mont_Blanc_glacier_flood" class="mw-redirect" title="Mont Blanc glacier flood">Mont Blanc glacier flood</a></li>
-<li><a href="/wiki/Mont_Blanc_tramway" title="Mont Blanc tramway">Mont Blanc tramway</a></li>
-<li><a href="/wiki/Mont_Blanc_Tunnel" title="Mont Blanc Tunnel">Mont Blanc Tunnel</a></li>
-<li><a href="/wiki/Saint-Gervais%E2%80%93Vallorcine_railway" title="Saint-Gervais–Vallorcine railway">Saint-Gervais–Vallorcine railway</a></li>
-<li><a href="/wiki/Skyway_Monte_Bianco" title="Skyway Monte Bianco">Skyway Monte Bianco</a></li>
-<li><a href="/wiki/Top_of_the_Mont_Blanc" title="Top of the Mont Blanc">Top of the Mont Blanc</a></li>
-<li><a href="/wiki/Tour_du_Mont_Blanc" title="Tour du Mont Blanc">Tour du Mont Blanc</a></li>
-<li><a href="/wiki/Aosta_Valley" title="Aosta Valley">Val d'Aosta</a></li>
-<li><a href="/wiki/Val_Ferret" title="Val Ferret">Val Ferret</a></li>
-<li><a href="/wiki/Val_Veny" title="Val Veny">Val Veny</a></li>
-<li><a href="/wiki/Vall%C3%A9e_Blanche_Aerial_Tramway" class="mw-redirect" title="Vallée Blanche Aerial Tramway">Vallée Blanche Aerial Tramway</a></li></ul>
-</div></td></tr></tbody></table></div>
-<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"/><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"/></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q646311#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q646311#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q646311#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" class="noprint" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
-<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/477152637799720220004">VIAF</a></span></li></ul>
-</div></td></tr></tbody></table></div>
+<style data-mw-deduplicate="TemplateStyles:r1012311289">.mw-parser-output .asbox{position:relative;overflow:hidden}.mw-parser-output .asbox table{background:transparent}.mw-parser-output .asbox p{margin:0}.mw-parser-output .asbox p+p{margin-top:0.25em}.mw-parser-output .asbox-body{font-style:italic}.mw-parser-output .asbox-note{font-size:smaller}.mw-parser-output .asbox .navbar{position:absolute;top:-0.75em;right:1em;display:none}</style><div role="note" class="metadata plainlinks asbox stub"><table role="presentation"><tbody><tr class="noresize"><td><a href="/wiki/File:TamilNadu_Small.png" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/TamilNadu_Small.png/27px-TamilNadu_Small.png" decoding="async" width="27" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/TamilNadu_Small.png/41px-TamilNadu_Small.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/TamilNadu_Small.png/54px-TamilNadu_Small.png 2x" data-file-width="90" data-file-height="112" /></a></td><td><p class="asbox-body">This article related to a location in <a href="/wiki/Viluppuram_district" title="Viluppuram district">Viluppuram district</a>, <a href="/wiki/Tamil_Nadu" title="Tamil Nadu">Tamil Nadu</a>, <a href="/wiki/India" title="India">India</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Tindivanam_taluk&amp;action=edit">expanding it</a>.</p></td></tr></tbody></table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"/><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Viluppuram-geo-stub" title="Template:Viluppuram-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Viluppuram-geo-stub" title="Template talk:Viluppuram-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Viluppuram-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></div>
 <!-- 
 NewPP limit report
-Parsed by mw2283
-Cached time: 20230426150837
+Parsed by mw2433
+Cached time: 20230419052643
 Cache expiry: 1814400
 Reduced expiry: false
-Complications: []
-CPU time usage: 0.524 seconds
-Real time usage: 0.796 seconds
-Preprocessor visited node count: 3209/1000000
-Post‐expand include size: 69606/2097152 bytes
-Template argument size: 5998/2097152 bytes
-Highest expansion depth: 16/100
-Expensive parser function count: 2/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 21286/5000000 bytes
-Lua time usage: 0.335/10.000 seconds
-Lua memory usage: 18645571/52428800 bytes
-Number of Wikibase entities loaded: 3/400
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.147 seconds
+Real time usage: 0.211 seconds
+Preprocessor visited node count: 344/1000000
+Post‐expand include size: 17195/2097152 bytes
+Template argument size: 642/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14580/5000000 bytes
+Lua time usage: 0.100/10.000 seconds
+Lua memory usage: 3001255/52428800 bytes
+Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  622.944      1 -total
- 53.78%  335.002      1 Template:Infobox_mountain
- 48.72%  303.506      1 Template:Infobox
- 15.44%   96.178      1 Template:Native_name_checker
- 14.77%   92.017     18 Template:If_empty
- 13.11%   81.642      1 Template:Mont_Blanc_massif
- 12.70%   79.105      1 Template:Navbox
- 10.71%   66.694      1 Template:Unreferenced
- 10.31%   64.219      1 Template:Short_description
-  9.79%   60.988      1 Template:Ambox
+100.00%  190.557      1 -total
+ 36.30%   69.167      1 Template:Villupuram_District
+ 34.85%   66.401      1 Template:Navbox
+ 27.86%   53.084      1 Template:Cite_web
+ 16.23%   30.931      1 Template:Coord_missing
+ 16.17%   30.809      2 Template:Main_other
+ 12.29%   23.417      1 Template:If
+ 11.98%   22.828      1 Template:Use_dmy_dates
+ 11.60%   22.113      2 Template:P2
+ 10.95%   20.874      1 Template:Wikidata
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:45231622-0!canonical and timestamp 20230426150836 and revision id 1050840278. Rendering was triggered because: api-parse
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23863998-0!canonical and timestamp 20230419052643 and revision id 971356738. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dômes_de_Miage&amp;oldid=1050840278">https://en.wikipedia.org/w/index.php?title=Dômes_de_Miage&amp;oldid=1050840278</a>"</div></div>
-					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Mountains_of_Haute-Savoie" title="Category:Mountains of Haute-Savoie">Mountains of Haute-Savoie</a></li><li><a href="/wiki/Category:Mountains_of_the_Alps" title="Category:Mountains of the Alps">Mountains of the Alps</a></li><li><a href="/wiki/Category:Mont_Blanc_massif" title="Category:Mont Blanc massif">Mont Blanc massif</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_lacking_sources_from_May_2019" title="Category:Articles lacking sources from May 2019">Articles lacking sources from May 2019</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li></ul></div></div>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tindivanam_taluk&amp;oldid=971356738">https://en.wikipedia.org/w/index.php?title=Tindivanam_taluk&amp;oldid=971356738</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Taluks_of_Villupuram_district" title="Category:Taluks of Villupuram district">Taluks of Villupuram district</a></li><li><a href="/wiki/Category:Viluppuram_district_geography_stubs" title="Category:Viluppuram district geography stubs">Viluppuram district geography stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_August_2019" title="Category:Use dmy dates from August 2019">Use dmy dates from August 2019</a></li><li><a href="/wiki/Category:Tamil_Nadu_articles_missing_geocoordinate_data" title="Category:Tamil Nadu articles missing geocoordinate data">Tamil Nadu articles missing geocoordinate data</a></li><li><a href="/wiki/Category:All_articles_needing_coordinates" title="Category:All articles needing coordinates">All articles needing coordinates</a></li><li><a href="/wiki/Category:Articles_missing_coordinates_without_coordinates_on_Wikidata" title="Category:Articles missing coordinates without coordinates on Wikidata">Articles missing coordinates without coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
 				</div>
 			</main>
 			
@@ -864,7 +668,7 @@ Transclusion expansion time report (%,ms,calls,template)
 			
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info">
-	<li id="footer-info-lastmod"> This page was last edited on 20 October 2021, at 06:23<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-lastmod"> This page was last edited on 5 August 2020, at 16:39<span class="anonymous-show">&#160;(UTC)</span>.</li>
 	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 </ul>
@@ -874,7 +678,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
 	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
 	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=D%C3%B4mes_de_Miage&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tindivanam_taluk&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
 	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
 	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
@@ -904,7 +708,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </button>
 
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2312","wgBackendResponseTime":109,"wgPageParseReport":{"limitreport":{"cputime":"0.524","walltime":"0.796","ppvisitednodes":{"value":3209,"limit":1000000},"postexpandincludesize":{"value":69606,"limit":2097152},"templateargumentsize":{"value":5998,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":21286,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  622.944      1 -total"," 53.78%  335.002      1 Template:Infobox_mountain"," 48.72%  303.506      1 Template:Infobox"," 15.44%   96.178      1 Template:Native_name_checker"," 14.77%   92.017     18 Template:If_empty"," 13.11%   81.642      1 Template:Mont_Blanc_massif"," 12.70%   79.105      1 Template:Navbox"," 10.71%   66.694      1 Template:Unreferenced"," 10.31%   64.219      1 Template:Short_description","  9.79%   60.988      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.335","limit":"10.000"},"limitreport-memusage":{"value":18645571,"limit":52428800}},"cachereport":{"origin":"mw2283","timestamp":"20230426150837","ttl":1814400,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"D\u00f4mes de Miage","url":"https:\/\/en.wikipedia.org\/wiki\/D%C3%B4mes_de_Miage","sameAs":"http:\/\/www.wikidata.org\/entity\/Q646311","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q646311","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-01-27T19:41:07Z","dateModified":"2021-10-20T06:23:46Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a1\/D%C3%B4meMiage_from_Miage.jpg","headline":"mountain"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"D\u00f4mes de Miage","url":"https:\/\/en.wikipedia.org\/wiki\/D%C3%B4mes_de_Miage","sameAs":"http:\/\/www.wikidata.org\/entity\/Q646311","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q646311","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-01-27T19:41:07Z","dateModified":"2021-10-20T06:23:46Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a1\/D%C3%B4meMiage_from_Miage.jpg","headline":"mountain"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2316","wgBackendResponseTime":106,"wgPageParseReport":{"limitreport":{"cputime":"0.147","walltime":"0.211","ppvisitednodes":{"value":344,"limit":1000000},"postexpandincludesize":{"value":17195,"limit":2097152},"templateargumentsize":{"value":642,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14580,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  190.557      1 -total"," 36.30%   69.167      1 Template:Villupuram_District"," 34.85%   66.401      1 Template:Navbox"," 27.86%   53.084      1 Template:Cite_web"," 16.23%   30.931      1 Template:Coord_missing"," 16.17%   30.809      2 Template:Main_other"," 12.29%   23.417      1 Template:If"," 11.98%   22.828      1 Template:Use_dmy_dates"," 11.60%   22.113      2 Template:P2"," 10.95%   20.874      1 Template:Wikidata"]},"scribunto":{"limitreport-timeusage":{"value":"0.100","limit":"10.000"},"limitreport-memusage":{"value":3001255,"limit":52428800}},"cachereport":{"origin":"mw2433","timestamp":"20230419052643","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tindivanam taluk","url":"https:\/\/en.wikipedia.org\/wiki\/Tindivanam_taluk","sameAs":"http:\/\/www.wikidata.org\/entity\/Q12983956","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q12983956","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-08-04T17:16:40Z","dateModified":"2020-08-05T16:39:33Z"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tindivanam taluk","url":"https:\/\/en.wikipedia.org\/wiki\/Tindivanam_taluk","sameAs":"http:\/\/www.wikidata.org\/entity\/Q12983956","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q12983956","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-08-04T17:16:40Z","dateModified":"2020-08-05T16:39:33Z"}</script>
 </body>
 </html>
