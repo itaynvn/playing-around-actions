@@ -37,8 +37,11 @@ jobs:
           git add app-info.yaml
           git commit -m "Version bump to ${{ env.NEW_VERSION }}"
           git push origin HEAD:main
-        env:
+        with:
+          publish_dir: ./
           github_token: ${{ secrets.ACCESS_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Rename zip file with new version
         run: |
