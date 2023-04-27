@@ -1,4 +1,4 @@
-name: Package and release
+name: PackageVersionRelease
 on:
   push:
     branches:
@@ -31,6 +31,7 @@ jobs:
       - name: Rename zip file with new version
         run: |
           mv bla.zip $NEW_VERSION.zip
+          ls -la *.zip
 
       - name: Upload to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
