@@ -31,6 +31,8 @@ jobs:
           sed -i "s/version: $version/version: $NEW_VERSION/g" app-info.yaml
 
       - name: Rename zip file with new version
+        env:
+          NEW_VERSION: ${{ env.NEW_VERSION }}
         run: |
           echo ${{ env.NEW_VERSION }}
           mv bla.zip ${{ env.NEW_VERSION }}.zip
@@ -56,6 +58,7 @@ jobs:
         id: create_release
         uses: actions/create-release@v1
         env:
+          NEW_VERSION: ${{ env.NEW_VERSION }}
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         with:
           tag_name: ${{ env.NEW_VERSION }}
