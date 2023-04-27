@@ -19,11 +19,13 @@ jobs:
       - name: Bump version number
         run: |
           version=$(grep -m 1 'version' app-info.yaml | awk '{print $2}')
+          echo $version
           major=$(echo $version | cut -d'.' -f1)
           minor=$(echo $version | cut -d'.' -f2)
           patch=$(echo $version | cut -d'.' -f3)
           new_minor=$(expr $minor + 1)
           export NEW_VERSION="$major.$new_minor.$patch"
+          echo $NEW_VERSION
           sed -i "s/version: $version/version: $NEW_VERSION/g" app-info.yaml
 
       - name: Rename zip file with new version
