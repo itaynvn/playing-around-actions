@@ -26,13 +26,11 @@ jobs:
           minor=$(echo $version | cut -d'.' -f2)
           patch=$(echo $version | cut -d'.' -f3)
           new_minor=$(expr $minor + 1)
-          export NEW_VERSION="$major.$new_minor.$patch"
-          echo $NEW_VERSION
-          sed -i "s/version: $version/version: $NEW_VERSION/g" app-info.yaml
+          echo "NEW_VERSION=$major.$new_minor.$patch" >> $GITHUB_ENV
+          echo ${{ env.NEW_VERSION }}
+          sed -i "s/version: $version/version: ${{ env.NEW_VERSION }}/g" app-info.yaml
 
       - name: Rename zip file with new version
-        env:
-          NEW_VERSION: ${{ env.NEW_VERSION }}
         run: |
           echo ${{ env.NEW_VERSION }}
           mv bla.zip ${{ env.NEW_VERSION }}.zip
@@ -46,19 +44,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set output version
-        id: set_version
-        run: |
-          pwd
-          ls -la
-          cat app-info.yaml
-          echo "version=$(grep 'version:' app-info.yaml | cut -d' ' -f2)" >> "$GITHUB_OUTPUT"
-
       - name: Create release
         id: create_release
         uses: actions/create-release@v1
         env:
-          NEW_VERSION: ${{ env.NEW_VERSION }}
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         with:
           tag_name: ${{ env.NEW_VERSION }}
