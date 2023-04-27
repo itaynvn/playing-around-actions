@@ -1,4 +1,4 @@
-name: Package and release
+name: ColorTest
 on:
   push:
     branches:
