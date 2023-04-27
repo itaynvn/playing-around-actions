@@ -32,6 +32,7 @@ jobs:
 
       - name: Rename zip file with new version
         run: |
+          echo ${{ env.NEW_VERSION }}
           mv bla.zip ${{ env.NEW_VERSION }}.zip
           ls -la *.zip
 
