@@ -23,13 +23,12 @@ jobs:
           minor=$(echo $version | cut -d'.' -f2)
           patch=$(echo $version | cut -d'.' -f3)
           new_minor=$(expr $minor + 1)
-          new_version="$major.$new_minor.$patch"
-          sed -i "s/version: $version/version: $new_version/g" app-info.yaml
+          export NEW_VERSION="$major.$new_minor.$patch"
+          sed -i "s/version: $version/version: $NEW_VERSION/g" app-info.yaml
 
       - name: Rename zip file with new version
         run: |
-          VERSION=$(grep "version:" app-info.yaml | cut -d' ' -f2)
-          mv bla.zip $VERSION.zip
+          mv bla.zip $NEW_VERSION.zip
 
       - name: Upload to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
@@ -53,7 +52,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ steps.set_version.outputs.version }}
-          release_name: Release ${{ steps.set_version.outputs.version }}
+          tag_name: $NEW_VERSION
+          release_name: Release $NEW_VERSION
           draft: false
           prerelease: false
